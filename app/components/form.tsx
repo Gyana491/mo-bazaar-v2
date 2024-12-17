@@ -7,7 +7,7 @@ const Form = () => {
         <input className='border border-gray-300 rounded-md p-2' type="text" placeholder="Name" />
         <input className='border border-gray-300 rounded-md p-2' type="email" placeholder="Email" />
         <input className='border border-gray-300 rounded-md p-2' type="password" placeholder="Password" />
-        
+        <textarea className='border border-gray-300 rounded-md p-2' placeholder="Message" />
         <button className='bg-blue-500 text-white rounded-md p-2' type="submit">Submit</button>
     </form>
     </>
