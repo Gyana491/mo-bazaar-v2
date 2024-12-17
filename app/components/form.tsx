@@ -20,6 +20,7 @@ const Form = () => {
           placeholder="Password"
         />
         <textarea name="" id=""></textarea>
+        <input type="color" name="" id="" />
         <button className="bg-blue-500 text-white rounded-md p-2" type="submit">
           Submit
         </button>
