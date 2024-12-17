@@ -1,6 +1,6 @@
 import React from 'react'
 
-const form = () => {
+const Form = () => {
   return (
     <>
     <form className='flex flex-col gap-4'>
@@ -13,4 +13,4 @@ const form = () => {
   )
 }
 
-export default form
+export default Form
